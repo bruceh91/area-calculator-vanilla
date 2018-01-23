@@ -1,0 +1,19 @@
+#header {
+    text-align: center;
+}
+
+#description {
+    text-align: center;
+}
+
+#image-container {
+    max-height: 100%;
+    max-width: 100%;
+    width: 670px;
+    margin: auto;
+}
+
+#grid {
+    display: block;
+    margin: auto;
+}
